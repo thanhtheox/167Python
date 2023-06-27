@@ -1,3 +1,4 @@
+c = float(input("Nhap C: "))
 
 import math
 c = float(input("Nhap do C: "))

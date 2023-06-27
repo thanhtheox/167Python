@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>cec1b257-5d65-4eb0-92c2-adea9217e6b9</ProjectGuid>
+    <ProjectGuid>995a68f6-9cab-45ea-bede-7c15fd0afc43</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Bai018.py</StartupFile>
+    <StartupFile>Bai004.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Bai018</Name>
-    <RootNamespace>Bai018</RootNamespace>
+    <Name>Bai004</Name>
+    <RootNamespace>Bai004</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Bai018.py" />
+    <Compile Include="Bai004.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
