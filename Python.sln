@@ -5,10 +5,6 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai001", "Bai001\Bai001.pyproj", "{60872698-5DDF-4765-9F3C-BF6816CCA13C}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai002", "Bai002\Bai002.pyproj", "{9B97F669-F68A-4560-B4BA-3F0114EB51F8}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai003", "Bai003\Bai003.pyproj", "{1837B36D-C1B5-4D20-8867-1EE7D54912B7}"
-EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai125", "Bai125\Bai125.pyproj", "{8365E372-38EE-430C-BE2D-8C358AFDB6DF}"
 EndProject
 Global
@@ -19,10 +15,6 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{60872698-5DDF-4765-9F3C-BF6816CCA13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{60872698-5DDF-4765-9F3C-BF6816CCA13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B97F669-F68A-4560-B4BA-3F0114EB51F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B97F669-F68A-4560-B4BA-3F0114EB51F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1837B36D-C1B5-4D20-8867-1EE7D54912B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1837B36D-C1B5-4D20-8867-1EE7D54912B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8365E372-38EE-430C-BE2D-8C358AFDB6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8365E372-38EE-430C-BE2D-8C358AFDB6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
