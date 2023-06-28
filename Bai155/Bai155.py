@@ -1,4 +1,3 @@
-
 n = float(input("Nhap n: "))
 t = 1 
 i = 0

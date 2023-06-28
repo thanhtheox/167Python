@@ -1,6 +1,4 @@
 from math import sqrt
-
-
 n = float(input("Nhap n: "))
 s = 0
 i = n

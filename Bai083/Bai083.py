@@ -6,6 +6,6 @@ t = 1
 i = 1
 while (i <= n):
     t = t * x
-    s = s + math.sin(t)
+    s = s + math.sin(t * 3.14 / 180)
     i = i + 1
 print("S = ", s)

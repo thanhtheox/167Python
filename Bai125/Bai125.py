@@ -1,5 +1,3 @@
-
-import math
 a = float(input("Nhap a: "))
 b = float(input("Nhap b: "))
 if (a <0):
