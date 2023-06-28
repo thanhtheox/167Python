@@ -6,6 +6,3 @@ while(i <= n):
     print(t, end="\t")
     i = i + 1
 print("")
-
-
-

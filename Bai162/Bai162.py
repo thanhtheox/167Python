@@ -1,4 +1,3 @@
-
 n = int(input("Nhap n: "))
 flag = 1
 t = n
@@ -12,6 +11,3 @@ if(flag == 1):
     print("n co cac chu so giam dan tu trai sang phai")
 else:
     print("n co cac chu so khong giam dan tu trai sang phai")
-
-
-

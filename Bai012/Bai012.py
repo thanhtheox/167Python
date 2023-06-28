@@ -1,4 +1,3 @@
-
 import math
 x = float(input("Nhap x: "))
 x2 = x * x

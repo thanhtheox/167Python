@@ -4,18 +4,3 @@ lc = a
 while(lc < b):
    lc = b
 print("So hang lon nhat: ", lc)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

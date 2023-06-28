@@ -10,17 +10,3 @@ while(i <= n):
     i = i + 1
     at = ahh
 print("So hang thu n cua day: ", ahh)
-
-
-
-
-
-
-
-
-
-
-
-
-
-

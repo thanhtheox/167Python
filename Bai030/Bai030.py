@@ -1,5 +1,3 @@
-import math
-
 n = int(input("Nhap n: "))
 S = 0
 i = 2

@@ -6,9 +6,3 @@ while(t != 0):
     tich = tich * dv
     t = int(t / 10)
 print("Tich cac chu so cua n: ", tich)
-
-
-
-
-
-
